@@ -62,6 +62,7 @@ const LoggedInView = props => {
           </Link>
         </li>
         <p>Hello {username}, {user.gender === "male" ? "you are a male." : "you are a female".}</p>
+        <p> This is some test </p>
       </ul>
     );
   }
