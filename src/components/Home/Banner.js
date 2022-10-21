@@ -10,7 +10,7 @@ const Banner = ({ appName, token }) => {
         <h1 className="logo-font">
           {appName.toLowerCase()}
         </h1>
-        <p>Humblux</p>
+        <p>Leggooo</p>
       </div>
     </div>
   );
