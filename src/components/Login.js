@@ -46,10 +46,10 @@ class Login extends React.Component {
           <div className="row">
 
             <div className="col-md-6 offset-md-3 col-xs-12">
-              <h1 className="text-xs-center">Sign In</h1>
+              <h1 className="text-xs-center">Log in</h1>
               <p className="text-xs-center">
                 <Link to="/register">
-                  Need an account?
+                  If your not signed up yet, let's make you an account!
                 </Link>
               </p>
 
@@ -80,7 +80,7 @@ class Login extends React.Component {
                     className="btn btn-lg btn-primary pull-xs-right"
                     type="submit"
                     disabled={this.props.inProgress}>
-                    Sign in
+                    Log in
                   </button>
 
                 </fieldset>
