@@ -37,7 +37,7 @@ const LoggedInView = props => {
 
         <li className="nav-item">
           <Link to="/" className="nav-link">
-            Home
+            House
           </Link>
         </li>
 
